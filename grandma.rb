@@ -15,9 +15,10 @@
 def speak_to_grandma(sentence)
   if sentence == sentence.uppercase
     "NO, NOT SINCE 1938!"
-  elsif sentence == 
-    "I LOVE YOU GRANDMA!"
-  else "I LOVE YOU TOO PUMPKIN!"
+  elsif sentence ==  "I LOVE YOU GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN!"
+  elsif sentence == sentence.lowercase
+    ""
     
 end
 end 
