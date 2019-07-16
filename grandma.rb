@@ -14,7 +14,7 @@
 
 def speak_to_grandma(sentence)
   if "NO, NOT SINCE 1938!" 
-    
+    "NO, NOT SINCE 1938!"
   elseif == "I LOVE YOU GRANDMA!"
     
   else "I LOVE YOU TOO PUMPKIN!"
